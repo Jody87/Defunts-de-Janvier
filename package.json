@@ -1,0 +1,14 @@
+{
+  "name": "node-essai",
+  "version": "1.0.0",
+  "description": "testing if my json works",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch smadefunts.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
